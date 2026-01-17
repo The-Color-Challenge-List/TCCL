@@ -18,18 +18,30 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
+    // Top 20 fixed points
+    const top20Points = [
+        350, 330, 311, 293, 276,
+        260, 245, 231, 218, 206,
+        195, 185, 176, 168, 161,
+        155, 150, 146, 143, 141
+    ];
+
+    let baseScore;
+
+    if (rank <= 20) {
+        baseScore = top20Points[rank - 1];
+    } else {
+        baseScore = 141 - (rank - 20); // −1 per rank after top 20
+        if (baseScore < 1) baseScore = 1;
+    }
+
+    let score =
+        baseScore *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
 
-    if (percent != 100) {
+    if (percent !== 100) {
         return round(score - score / 3);
     }
 
