@@ -1,24 +1,18 @@
 {
-    "id": 131341557,
-    "name": "GOVNO",
-    "author": "ISlamychGDYT",
-    "creators": ["ISlamychGDYT"],
-    "verifier": "CookieWasTaken",
-    "verification": "https://youtu.be/8637Ig_z6M8",
-    "color": "Brown",
-    "percentToQualify": 65,
+    "id": 131566801,
+    "name": "blue challenge",
+    "author": "Giupuppy",
+    "creators": ["Giupuppy"],
+    "verifier": "Giupuppy",
+    "verification": "https://youtu.be/g1I912GrO7s?si=R4ecbJCI2DSFE_hy",
+    "color": "Blue",
+    "percentToQualify": 44,
     "records": [
         {
-            "user": "Braylon",
-            "link": "https://youtu.be/0l5P1PwyfZU",
+            "user": "Spamkid",
+            "link": "https://youtu.be/ByI7ht8UJh4",
             "percent": 100,
-            "hz": 144
-        },
-                {
-            "user": "Maineterskoe",
-            "link": "https://youtu.be/_naH9R_97PY",
-            "percent": 100,
-            "hz": 240
+            "hz": 60
         }
     ]
 }
