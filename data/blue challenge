@@ -1,0 +1,24 @@
+{
+    "id": 131341557,
+    "name": "GOVNO",
+    "author": "ISlamychGDYT",
+    "creators": ["ISlamychGDYT"],
+    "verifier": "CookieWasTaken",
+    "verification": "https://youtu.be/8637Ig_z6M8",
+    "color": "Brown",
+    "percentToQualify": 65,
+    "records": [
+        {
+            "user": "Braylon",
+            "link": "https://youtu.be/0l5P1PwyfZU",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "Maineterskoe",
+            "link": "https://youtu.be/_naH9R_97PY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
