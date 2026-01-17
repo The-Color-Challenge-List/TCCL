@@ -5,14 +5,14 @@
     "creators": ["Mavb1605", "Placeholder", "Placeholder"],
     "verifier": "App?",
     "verification": "https://www.youtube.com/watch?v=9j5HczksDs0",
-    "percentToQualify": 100,
+    "percentToQualify": 24,
     "handcam": "Not Required",
     "records": [
         {
-            "user": "Placeholder",
-            "link": "https://www.youtube.com/watch?v=9j5HczksDs0",
-            "percent": 100,
-            "hz": 240
+            "user": "DarkPraire",
+            "link": "https://www.youtube.com/watch?v=x4xK9WHXD7M",
+            "percent": 27,
+            "hz": 180
         }
     ]
 }
