@@ -20,10 +20,16 @@
             "percent": 100,
             "hz": 240
         },
-                        {
+                {
             "user": "Spamkid",
             "link": "https://youtu.be/vqx0-Or4UhQ",
             "percent": 100,
+            "hz": 185
+        },
+                 {
+            "user": "Giupuppy",
+            "link": "https://youtu.be/vqx0-Or4UhQ",
+            "percent": 68,
             "hz": 60
         }
     ]
