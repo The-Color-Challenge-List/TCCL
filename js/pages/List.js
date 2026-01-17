@@ -110,7 +110,7 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt, the recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
                         The recording needs to be in a good quality, handcam if possible, loud and clear clicks
