@@ -2,22 +2,16 @@
     "id": 131341557,
     "name": "GOVNO",
     "author": "ISlamychGDYT",
-    "creators": ["DarkPraire"],
-    "verifier": "SmokeyTwix",
-    "verification": "https://www.youtube.com/watch?v=i7GZFANbb-o",
-    "percentToQualify": 45,
+    "creators": ["ISlamychGDYT"],
+    "verifier": "CookieWasTaken",
+    "verification": "https://www.youtube.com/watch?v=8637Ig_z6M8",
+    "percentToQualify": 65,
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=i7GZFANbb-o",
-            "percent": 52,
-            "hz": 240
+            "user": "Braylon",
+            "link": "https://youtu.be/0l5P1PwyfZU",
+            "percent": 100,
+            "hz": 144
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=i7GZFANbb-o",
-            "percent": 73,
-            "hz": 60
-        }
     ]
 }
