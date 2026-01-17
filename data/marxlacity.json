@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=VXAxVP9owEg",
             "percent": 100,
             "hz": 160
+        },
+                 {
+            "user": "green",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVGzHXHrcME1zYP-U?invite=cr-MSw3eG0sODkxOTg0MDE&v=19",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
