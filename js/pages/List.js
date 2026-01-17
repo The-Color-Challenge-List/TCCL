@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">Color</div>
+                            <p>{{ level.color || 'Free to Copy' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Handcam</div>
