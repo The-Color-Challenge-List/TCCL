@@ -5,7 +5,7 @@
     "creators": ["DarkPraire"],
     "verifier": "SmokeyTwix",
     "verification": "https://www.youtube.com/watch?v=i7GZFANbb-o",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "records": [
         {
             "user": "Sample_Victor_1",
