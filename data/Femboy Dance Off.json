@@ -1,0 +1,24 @@
+{
+    "id": 131457546,
+    "name": "marxlacity",
+    "author": "Thespamkid2",
+    "creators": ["Thespamkid2"],
+    "verifier": "Thespamkid2",
+    "verification": "https://youtu.be/tP8gLzMIIqU",
+    "color": "Pink",
+    "percentToQualify": 61,
+    "records": [
+        {
+            "user": "Glortux",
+            "link": "https://youtu.be/vDqgJBrVAdY?si=smUIa32Jwi9Njnlm",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Braylon",
+            "link": "https://www.youtube.com/watch?v=ztxfOI4hMAg",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
