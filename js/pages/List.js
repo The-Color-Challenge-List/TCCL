@@ -104,10 +104,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks
+                        Achieve the record without using hacks
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieve the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt, the recording must also show the player hit the endwall, or the completion will be invalidated.
