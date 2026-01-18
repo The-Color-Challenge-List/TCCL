@@ -1,9 +1,9 @@
 {
     "id": 131676096,
     "name": "her name",
-    "author": "BoninKK",
-    "creators": ["BoninKK"],
-    "verifier": "BoninKK",
+    "author": "BoninKK[owner]",
+    "creators": ["BoninKK[owner]"],
+    "verifier": "BoninKK[owner]",
     "verification": "https://www.youtube.com/watch?v=E-Y3XMHewqo",
     "color": "Dark Blue",
     "percentToQualify": 1,
