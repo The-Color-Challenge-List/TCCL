@@ -6,7 +6,7 @@
     "verifier": "invoe",
     "verification": "https://www.youtube.com/watch?v=kS20k3IqG68",
     "color": "Light BLue",
-    "percentToQualify": 1,
+    "percentToQualify": 1000,
     "records": [
     ]
 }
