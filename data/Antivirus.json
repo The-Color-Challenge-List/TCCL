@@ -6,7 +6,7 @@
     "verifier": "Spamkid",
     "verification": "https://youtu.be/3Win1UTmt4E",
     "color": "Torquoise",
-    "percentToQualify": 68,
+    "percentToQualify": 1000,
     "records": [
         {
             "user": "SmokeyTwix",
