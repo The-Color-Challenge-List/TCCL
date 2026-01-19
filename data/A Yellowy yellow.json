@@ -6,7 +6,7 @@
     "verifier": "Zinglarb",
     "verification": "https://www.youtube.com/watch?v=D_-HhXBDLSQ",
     "color": "Yellow",
-    "percentToQualify": 1,
+    "percentToQualify": 1000,
     "records": [
     ]
 }
