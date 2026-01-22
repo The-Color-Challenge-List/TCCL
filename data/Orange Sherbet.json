@@ -1,0 +1,18 @@
+{
+    "id": 131424888,
+    "name": "Orange Sherbet",
+    "author": "Skull2487",
+    "creators": ["Skull2487"],
+    "verifier": "Skull2487",
+    "verification": "https://youtu.be/ULqfC6fRT_U?si=x_6vVwazQ4k_FXL3",
+    "color": "Orange",
+    "percentToQualify": 1000,
+    "records": [
+       {
+            "user": "SmokeyTwix",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVTaurRpTuHocLPcO?invite=cr-MSxjMkQsMzAyODk5ODUz&v=37",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
