@@ -8,5 +8,11 @@
     "color": "Cyan",
     "percentToQualify": 1000,
     "records": [
+        {
+            "user": "SmokeyTwix",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVTzEvgEKUeMFCxyL?invite=cr-MSxXd2ksMzAyODk5ODUz&v=30",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
