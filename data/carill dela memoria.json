@@ -8,5 +8,11 @@
     "color": "Purple",
     "percentToQualify": 1000,
     "records": [
+             {
+            "user": "Tix",
+            "link": "https://medal.tv/games/geometry-dash/clips/lXiYFu0yjmfKj9m5J?invite=cr-MSxkdkMsNDEwOTc5MTI3",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
