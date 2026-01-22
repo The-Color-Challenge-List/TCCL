@@ -1,0 +1,18 @@
+{
+    "id": 131490605,
+    "name": "a Bluey blue",
+    "author": "BoninKK",
+    "creators": ["BoninKK"],
+    "verifier": "BoninKK",
+    "verification": "https://youtu.be/tqZ_4I7f4v4",
+    "color": "Blue",
+    "percentToQualify": 50,
+    "records": [
+        {
+            "user": "SmokeyTwix",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVS7BGDYdKCGnnNob?invite=cr-MSxNeEksMzAyODk5ODUz&v=28",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
