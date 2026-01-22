@@ -8,5 +8,11 @@
     "color": "Green",
     "percentToQualify": 1000,
     "records": [
+            {
+            "user": "INVOE",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVZTNgFbhkSIV6Gj2?invite=cr-MSxhR3UsMzcyMzE1NTEw&v=19",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
